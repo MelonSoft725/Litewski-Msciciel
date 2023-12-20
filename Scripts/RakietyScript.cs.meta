@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6819a815cecc2ec4a9a50727dbf13a8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - czerwony: {fileID: 21300000, guid: 7f8d9512115368544b5dd7f8f56ac904, type: 3}
+  - zolty: {fileID: 21300000, guid: 8022e6e220f241e4d85f7795837f8240, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
